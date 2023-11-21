@@ -1,4 +1,6 @@
-/* RESET */
+/* 
+    RESET 
+*/
 
 * {
     box-sizing: border-box;
@@ -6,8 +8,26 @@
     margin: 0;
 }
 
-/* HEADER */
+/*
+    GENERAL
+*/
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
 
-/* MAIN */
+/* 
+    HEADER 
+*/
 
-/* FOOTER */
+/* 
+    MAIN 
+*/
+
+/* 
+    FOOTER 
+*/
+
+/* 
+    MEDIA QUERIES 
+*/
